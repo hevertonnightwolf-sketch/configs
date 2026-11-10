@@ -37,9 +37,9 @@
     {
       "id": "brasiltv",
       "name": "Brasil TV",
-      "activeDns": "http://dns1.apontamento.shop",
+      "activeDns": "http://dns1.apontamento.store",
       "backupDns": "",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
       "status": "offline"
     }
   ]
