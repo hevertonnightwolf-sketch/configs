@@ -1,0 +1,46 @@
+{
+  "app_version": "1.0.0",
+  "dns_shield_default": true,
+  "servers": [
+    {
+      "id": "aura",
+      "name": "Aura TV",
+      "activeDns": "http://dgaura.top",
+      "backupDns": "http://aurasmt.com",
+      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/aura.png?v=1794293251804",
+      "status": "online"
+    },
+    {
+      "id": "playtv",
+      "name": "Play TV",
+      "activeDns": "http://geralplaytop.online",
+      "backupDns": "",
+      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/playtv.png?v=1794293259801",
+      "status": "online"
+    },
+    {
+      "id": "ltc",
+      "name": "LTC",
+      "activeDns": "http://22.bm3w.site",
+      "backupDns": "",
+      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/ltc.png?v=1794293272020",
+      "status": "online"
+    },
+    {
+      "id": "night",
+      "name": "Night",
+      "activeDns": "http://pregadoresdapaz.click",
+      "backupDns": "",
+      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/night.png?v=1794293281678",
+      "status": "online"
+    },
+    {
+      "id": "brasiltv",
+      "name": "Brasil TV",
+      "activeDns": "http://dns1.apontamento.shop",
+      "backupDns": "",
+      "logoUrl": "",
+      "status": "offline"
+    }
+  ]
+}
