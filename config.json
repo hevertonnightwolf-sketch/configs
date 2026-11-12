@@ -41,14 +41,6 @@
       "backupDns": "",
       "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
       "status": "offline"
-    },
-    {
-      "id": "server_8970",
-      "name": "teste",
-      "activeDns": "http://lite.zx50.shop",
-      "backupDns": "",
-      "logoUrl": "",
-      "status": "online"
     }
   ]
 }
