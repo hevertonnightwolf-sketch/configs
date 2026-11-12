@@ -1,53 +1,59 @@
 {
+  "app_status": "online",
+  "notice_message": "Bem-vindo ao Unetplay!",
+  "min_version": 1,
+  "default_server": "aura",
+  "active_dns": "http://dgaura.top",
+  "backup_dns": "http://aurasmt.com",
   "app_version": "1.0.0",
   "dns_shield_default": true,
   "servers": [
     {
       "id": "aura",
       "name": "Aura TV",
-      "activeDns": "http://dgaura.top",
-      "backupDns": "http://aurasmt.com",
-      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/aura.png?v=1794293251804",
+      "active_dns": "http://dgaura.top",
+      "backup_dns": "http://aurasmt.com",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/aura.png?v=1794293251804",
       "status": "online"
     },
     {
       "id": "playtv",
       "name": "Play TV",
-      "activeDns": "http://geralplaytop.online",
-      "backupDns": "",
-      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/playtv.png?v=1794293259801",
+      "active_dns": "http://geralplaytop.online",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/playtv.png?v=1794293259801",
       "status": "online"
     },
     {
       "id": "ltc",
       "name": "LTC",
-      "activeDns": "http://22.bm3w.site",
-      "backupDns": "",
-      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/ltc.png?v=1794293272020",
+      "active_dns": "http://22.bm3w.site",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/ltc.png?v=1794293272020",
       "status": "online"
     },
     {
       "id": "night",
       "name": "Night",
-      "activeDns": "http://pregadoresdapaz.click",
-      "backupDns": "",
-      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/night.png?v=1794293281678",
+      "active_dns": "http://pregadoresdapaz.click",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/night.png?v=1794293281678",
       "status": "online"
     },
     {
       "id": "brasiltv",
       "name": "Brasil TV",
-      "activeDns": "http://dns1.apontamento.store",
-      "backupDns": "",
-      "logoUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
+      "active_dns": "http://dns1.apontamento.store",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
       "status": "offline"
     },
     {
       "id": "server_4027",
       "name": "teste",
-      "activeDns": "http://netxv8.sbs",
-      "backupDns": "",
-      "logoUrl": "",
+      "active_dns": "http://netxv8.sbs",
+      "backup_dns": "",
+      "logo_url": "",
       "status": "online"
     }
   ]
