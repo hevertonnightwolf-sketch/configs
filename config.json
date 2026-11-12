@@ -47,14 +47,6 @@
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
       "status": "offline"
-    },
-    {
-      "id": "server_4027",
-      "name": "teste",
-      "active_dns": "http://netxv8.sbs",
-      "backup_dns": "",
-      "logo_url": "",
-      "status": "online"
     }
   ]
 }
