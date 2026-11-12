@@ -35,7 +35,7 @@
     {
       "id": "night",
       "name": "Night",
-      "active_dns": "http://198.23.218.38:80",
+      "active_dns": "http://pregadoresdapaz.click",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/night.png?v=1794293281678",
       "status": "online"
