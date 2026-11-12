@@ -47,6 +47,14 @@
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
       "status": "offline"
+    },
+    {
+      "id": "p2livepro",
+      "name": "P2 Live Pro",
+      "active_dns": "http://edgelow.site",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/p2livepro.webp?v=1794509907045",
+      "status": "online"
     }
   ]
 }
