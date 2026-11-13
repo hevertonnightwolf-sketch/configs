@@ -55,6 +55,14 @@
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/p2livepro.webp?v=1794509907045",
       "status": "online"
+    },
+    {
+      "id": "blackbr",
+      "name": "Black Br",
+      "active_dns": "http://brblack99.site:80",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/blackbr.png?v=1794598111537",
+      "status": "online"
     }
   ]
 }
