@@ -52,15 +52,6 @@
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
       "status": "offline"
-    },
-    {
-      "id": "blackbr",
-      "name": "Black Br",
-      "role": "primary",
-      "active_dns": "http://brblack99.site:80",
-      "backup_dns": "",
-      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/blackbr.png?v=1794598111537",
-      "status": "online"
     }
   ],
   "backup_servers": [
@@ -71,6 +62,15 @@
       "active_dns": "http://edgelow.site",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/p2livepro.webp?v=1794509907045",
+      "status": "online"
+    },
+    {
+      "id": "blackbr",
+      "name": "Black Br",
+      "role": "backup",
+      "active_dns": "http://brblack99.site:80",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/blackbr.png?v=1794598111537",
       "status": "online"
     }
   ]
