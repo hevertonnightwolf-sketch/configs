@@ -52,6 +52,15 @@
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
       "status": "offline"
+    },
+    {
+      "id": "Ninja",
+      "name": "Ninja",
+      "role": "primary",
+      "active_dns": "http://ksc.publica.ninja",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/srv_1238.png?v=1794856963032",
+      "status": "online"
     }
   ],
   "backup_servers": [
