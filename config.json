@@ -13,7 +13,7 @@
       "name": "Aura TV",
       "role": "primary",
       "active_dns": "http://dgaura.top",
-      "backup_dns": "http://aurasmt.com",
+      "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/aura.png?v=1794293251804",
       "status": "online"
     },
