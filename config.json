@@ -4,13 +4,14 @@
   "min_version": 1,
   "default_server": "aura",
   "active_dns": "http://dgaura.top",
-  "backup_dns": "http://aurasmt.com",
+  "backup_dns": "http://edgelow.site",
   "app_version": "1.0.0",
   "dns_shield_default": true,
   "servers": [
     {
       "id": "aura",
       "name": "Aura TV",
+      "role": "primary",
       "active_dns": "http://dgaura.top",
       "backup_dns": "http://aurasmt.com",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/aura.png?v=1794293251804",
@@ -19,6 +20,7 @@
     {
       "id": "playtv",
       "name": "Play TV",
+      "role": "primary",
       "active_dns": "http://geralplaytop.online",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/playtv.png?v=1794293259801",
@@ -27,6 +29,7 @@
     {
       "id": "ltc",
       "name": "LTC",
+      "role": "primary",
       "active_dns": "http://22.bm3w.site",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/ltc.png?v=1794293272020",
@@ -35,6 +38,7 @@
     {
       "id": "night",
       "name": "Night",
+      "role": "primary",
       "active_dns": "http://pregadoresdapaz.click",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/night.png?v=1794293281678",
@@ -43,25 +47,30 @@
     {
       "id": "brasiltv",
       "name": "Brasil TV",
+      "role": "primary",
       "active_dns": "http://dns1.apontamento.store",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
       "status": "offline"
     },
     {
-      "id": "p2livepro",
-      "name": "P2 Live Pro",
-      "active_dns": "http://edgelow.site",
-      "backup_dns": "",
-      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/p2livepro.webp?v=1794509907045",
-      "status": "online"
-    },
-    {
       "id": "blackbr",
       "name": "Black Br",
+      "role": "primary",
       "active_dns": "http://brblack99.site:80",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/blackbr.png?v=1794598111537",
+      "status": "online"
+    }
+  ],
+  "backup_servers": [
+    {
+      "id": "p2livepro",
+      "name": "P2 Live Pro",
+      "role": "backup",
+      "active_dns": "http://edgelow.site",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/p2livepro.webp?v=1794509907045",
       "status": "online"
     }
   ]
