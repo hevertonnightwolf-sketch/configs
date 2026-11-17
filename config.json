@@ -61,6 +61,15 @@
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/srv_1238.png?v=1794856963032",
       "status": "online"
+    },
+    {
+      "id": "Five play",
+      "name": "FIVE | Five Play",
+      "role": "primary",
+      "active_dns": "http://five-play.falcaoflex.de",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/five_play.webp?v=1794941411365",
+      "status": "online"
     }
   ],
   "backup_servers": [
