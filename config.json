@@ -63,6 +63,14 @@
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/five_play.webp?v=1794941411365",
       "status": "online"
+    },
+    {
+      "id": "Sonic",
+      "name": "FIVE | Sonic",
+      "active_dns": "https://supersonictv.falcaoflex.de",
+      "backup_dns": "",
+      "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/sonic.webp?v=1794949295961",
+      "status": "online"
     }
   ],
   "backup_servers": [
