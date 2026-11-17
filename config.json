@@ -4,14 +4,13 @@
   "min_version": 1,
   "default_server": "aura",
   "active_dns": "http://dgaura.top",
-  "backup_dns": "http://edgelow.site",
+  "backup_dns": "",
   "app_version": "1.0.0",
   "dns_shield_default": true,
   "servers": [
     {
       "id": "aura",
       "name": "Aura TV",
-      "role": "primary",
       "active_dns": "http://dgaura.top",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/aura.png?v=1794293251804",
@@ -20,7 +19,6 @@
     {
       "id": "playtv",
       "name": "Play TV",
-      "role": "primary",
       "active_dns": "http://geralplaytop.online",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/playtv.png?v=1794293259801",
@@ -29,7 +27,6 @@
     {
       "id": "ltc",
       "name": "LTC",
-      "role": "primary",
       "active_dns": "http://22.bm3w.site",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/ltc.png?v=1794293272020",
@@ -38,7 +35,6 @@
     {
       "id": "night",
       "name": "Night",
-      "role": "primary",
       "active_dns": "http://pregadoresdapaz.click",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/night.png?v=1794293281678",
@@ -47,7 +43,6 @@
     {
       "id": "brasiltv",
       "name": "Brasil TV",
-      "role": "primary",
       "active_dns": "http://dns1.apontamento.store",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/brasiltv.png?v=1794349278774",
@@ -56,7 +51,6 @@
     {
       "id": "Ninja",
       "name": "Ninja",
-      "role": "primary",
       "active_dns": "http://ksc.publica.ninja",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/srv_1238.png?v=1794856963032",
@@ -65,7 +59,6 @@
     {
       "id": "Five play",
       "name": "FIVE | Five Play",
-      "role": "primary",
       "active_dns": "http://five-play.falcaoflex.de",
       "backup_dns": "",
       "logo_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/logos/five_play.webp?v=1794941411365",
